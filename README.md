@@ -1,1 +1,2 @@
-# project-three
+# E-commerce website : responsive portfolio website built using HTML5, CSS3, BOOTSTRAP, JAVASCRIPT.
+                       This project showcases basic responsive layout skills including navbar, grid system, and contact form.
